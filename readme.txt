@@ -9,3 +9,4 @@ Edit in dev branch
 edited by dev branch
 edit in feather 2
 edit in feather1
+test fast-forward
