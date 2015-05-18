@@ -10,3 +10,4 @@ edited by dev branch
 edit in feather 2
 edit in feather1
 test fast-forward
+edit in issue-1 and test stash
